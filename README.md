@@ -171,3 +171,9 @@ HMRC relief and DWP contribution tax relief answer different questions and are n
 Code and documentation: MIT Licence, copyright Matthew Allmark. See `LICENSE`.
 
 The statistics remain Crown copyright and FCA copyright, reused under the Open Government Licence v3.0. Contains public sector information licensed under the Open Government Licence v3.0. Contains Financial Conduct Authority data licensed under the Open Government Licence v3.0.
+
+## Author
+
+Matthew Allmark. First Class BSc Mathematics (Sheffield Hallam). Pension Data Technician at Capita.
+
+[LinkedIn](https://www.linkedin.com/in/matt-allmark-6b6a17158) · [GitHub](https://github.com/MatthewAllmark)
