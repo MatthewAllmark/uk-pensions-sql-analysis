@@ -1,0 +1,81 @@
+table_name,population,year,grain,category,pct_of_jobs,yoy_percentage_points
+Table 1,All employees,2021,family,Defined benefit,29.0,
+Table 1,All employees,2021,family,"Defined contribution, including group personal pensions",50.0,
+Table 1,All employees,2021,family,No workplace pension,20.0,
+Table 1,All employees,2021,family,Unknown,2.0,
+Table 1,All employees,2022,family,Defined benefit,27.0,-2.0
+Table 1,All employees,2022,family,"Defined contribution, including group personal pensions",51.0,1.0
+Table 1,All employees,2022,family,No workplace pension,21.0,1.0
+Table 1,All employees,2022,family,Unknown,2.0,0.0
+Table 1,All employees,2023,family,Defined benefit,26.0,-1.0
+Table 1,All employees,2023,family,"Defined contribution, including group personal pensions",52.0,1.0
+Table 1,All employees,2023,family,No workplace pension,20.0,-1.0
+Table 1,All employees,2023,family,Unknown,1.0,-1.0
+Table 1,All employees,2024,family,Defined benefit,28.0,2.0
+Table 1,All employees,2024,family,"Defined contribution, including group personal pensions",53.0,1.0
+Table 1,All employees,2024,family,No workplace pension,18.0,-2.0
+Table 1,All employees,2024,family,Unknown,1.0,0.0
+Table 1,All employees,2021,pension_type,Defined benefit,29.0,
+Table 1,All employees,2021,pension_type,Defined contribution,29.0,
+Table 1,All employees,2021,pension_type,Group personal pension,15.0,
+Table 1,All employees,2021,pension_type,Group self-invested personal pension,1.0,
+Table 1,All employees,2021,pension_type,Group stakeholder pension,5.0,
+Table 1,All employees,2021,pension_type,No pension provision [note 3],20.0,
+Table 1,All employees,2021,pension_type,Unknown pension provision,2.0,
+Table 1,All employees,2022,pension_type,Defined benefit,27.0,-2.0
+Table 1,All employees,2022,pension_type,Defined contribution,31.0,2.0
+Table 1,All employees,2022,pension_type,Group personal pension,15.0,0.0
+Table 1,All employees,2022,pension_type,Group self-invested personal pension,1.0,0.0
+Table 1,All employees,2022,pension_type,Group stakeholder pension,4.0,-1.0
+Table 1,All employees,2022,pension_type,No pension provision [note 3],21.0,1.0
+Table 1,All employees,2022,pension_type,Unknown pension provision,2.0,0.0
+Table 1,All employees,2023,pension_type,Defined benefit,26.0,-1.0
+Table 1,All employees,2023,pension_type,Defined contribution,32.0,1.0
+Table 1,All employees,2023,pension_type,Group personal pension,15.0,0.0
+Table 1,All employees,2023,pension_type,Group self-invested personal pension,1.0,0.0
+Table 1,All employees,2023,pension_type,Group stakeholder pension,4.0,0.0
+Table 1,All employees,2023,pension_type,No pension provision [note 3],20.0,-1.0
+Table 1,All employees,2023,pension_type,Unknown pension provision,1.0,-1.0
+Table 1,All employees,2024,pension_type,Defined benefit,28.0,2.0
+Table 1,All employees,2024,pension_type,Defined contribution,33.0,1.0
+Table 1,All employees,2024,pension_type,Group personal pension,15.0,0.0
+Table 1,All employees,2024,pension_type,Group self-invested personal pension,1.0,0.0
+Table 1,All employees,2024,pension_type,Group stakeholder pension,4.0,0.0
+Table 1,All employees,2024,pension_type,No pension provision [note 3],18.0,-2.0
+Table 1,All employees,2024,pension_type,Unknown pension provision,1.0,0.0
+Table 2,Employees with a workplace pension,2021,family,Defined benefit,36.0,
+Table 2,Employees with a workplace pension,2021,family,"Defined contribution, including group personal pensions",63.0,
+Table 2,Employees with a workplace pension,2021,family,Unknown,2.0,
+Table 2,Employees with a workplace pension,2022,family,Defined benefit,34.0,-2.0
+Table 2,Employees with a workplace pension,2022,family,"Defined contribution, including group personal pensions",65.0,2.0
+Table 2,Employees with a workplace pension,2022,family,Unknown,2.0,0.0
+Table 2,Employees with a workplace pension,2023,family,Defined benefit,33.0,-1.0
+Table 2,Employees with a workplace pension,2023,family,"Defined contribution, including group personal pensions",65.0,0.0
+Table 2,Employees with a workplace pension,2023,family,Unknown,2.0,0.0
+Table 2,Employees with a workplace pension,2024,family,Defined benefit,34.0,1.0
+Table 2,Employees with a workplace pension,2024,family,"Defined contribution, including group personal pensions",65.0,0.0
+Table 2,Employees with a workplace pension,2024,family,Unknown,1.0,-1.0
+Table 2,Employees with a workplace pension,2021,pension_type,Defined benefit,36.0,
+Table 2,Employees with a workplace pension,2021,pension_type,Defined contribution,36.0,
+Table 2,Employees with a workplace pension,2021,pension_type,Group personal pension,19.0,
+Table 2,Employees with a workplace pension,2021,pension_type,Group self-invested personal pension,2.0,
+Table 2,Employees with a workplace pension,2021,pension_type,Group stakeholder pension,6.0,
+Table 2,Employees with a workplace pension,2021,pension_type,Unknown pension provision,2.0,
+Table 2,Employees with a workplace pension,2022,pension_type,Defined benefit,34.0,-2.0
+Table 2,Employees with a workplace pension,2022,pension_type,Defined contribution,39.0,3.0
+Table 2,Employees with a workplace pension,2022,pension_type,Group personal pension,19.0,0.0
+Table 2,Employees with a workplace pension,2022,pension_type,Group self-invested personal pension,1.0,-1.0
+Table 2,Employees with a workplace pension,2022,pension_type,Group stakeholder pension,6.0,0.0
+Table 2,Employees with a workplace pension,2022,pension_type,Unknown pension provision,2.0,0.0
+Table 2,Employees with a workplace pension,2023,pension_type,Defined benefit,33.0,-1.0
+Table 2,Employees with a workplace pension,2023,pension_type,Defined contribution,40.0,1.0
+Table 2,Employees with a workplace pension,2023,pension_type,Group personal pension,18.0,-1.0
+Table 2,Employees with a workplace pension,2023,pension_type,Group self-invested personal pension,2.0,1.0
+Table 2,Employees with a workplace pension,2023,pension_type,Group stakeholder pension,5.0,-1.0
+Table 2,Employees with a workplace pension,2023,pension_type,Unknown pension provision,2.0,0.0
+Table 2,Employees with a workplace pension,2024,pension_type,Defined benefit,34.0,1.0
+Table 2,Employees with a workplace pension,2024,pension_type,Defined contribution,40.0,0.0
+Table 2,Employees with a workplace pension,2024,pension_type,Group personal pension,18.0,0.0
+Table 2,Employees with a workplace pension,2024,pension_type,Group self-invested personal pension,2.0,0.0
+Table 2,Employees with a workplace pension,2024,pension_type,Group stakeholder pension,5.0,0.0
+Table 2,Employees with a workplace pension,2024,pension_type,Unknown pension provision,1.0,-1.0

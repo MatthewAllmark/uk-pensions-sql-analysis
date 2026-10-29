@@ -1,0 +1,12 @@
+check_name,status,metric,detail
+eligible_and_all_headcount_adds_across_sector,PASS,1000.0,"Maximum absolute gap, in people, between Public + Private and Overall. Tolerance is 2,000 because DWP rounds each cell to the nearest thousand."
+fca_access_methods_sum_to_published_total,PASS,0.0,"Sum of annuity, drawdown, UFPLS and full-withdrawal plan counts minus the published total, across financial years."
+gender_headcount_matches_sector_total,PASS,1000.0,"Eligible employees, Overall: male + female participating employees versus the sector total. Same nearest-thousand rounding."
+no_duplicate_fca_keys,PASS,0.0,Duplicate natural keys in fca_first_access.
+no_duplicate_participation_keys,PASS,0.0,Duplicate natural keys in dwp_participation.
+no_duplicate_saving_keys,PASS,0.0,Duplicate natural keys in dwp_saving.
+observed_rates_that_are_null,PASS,0.0,Rows marked observed but missing the numeric rate.
+ons_table1_percentages_sum_near_100,PASS,1.0,"ONS rounds pension-type shares to whole percentage points, so the parts need not sum to exactly 100."
+participation_rates_outside_0_100,PASS,0.0,Observed participation rates outside 0 to 100 percent.
+saving_components_reconcile_to_total,PASS,100000000.0,"Maximum absolute gap, in pounds, between employee + employer + tax relief and the published total. Tolerance is £200 million, two published rounding steps."
+participation_rate_disclosure_markers,INFO,261.0,"Participation cells that are disclosure markers, usually [x] for an unweighted sample below 20, rather than a rate."

@@ -1,0 +1,42 @@
+dimension,sector,category,participation_pct,participating_employees,sample_size,sample_quality,rank_lowest_participation
+industry,Private,B:Mining and Quarrying,97.0,38000,,sample_not_published,
+industry,Private,O:Public administration and defence; compulsory social security,99.0,10000,,sample_not_published,
+industry,Private,T:Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,83.0,38000,,sample_not_published,
+industry,Private,U:Activities of extraterritorial organisations and bodies,91.0,2000,,sample_not_published,
+industry,Private,I:Accomodation and food service activities,78.0,678000,6000,usable,1
+industry,Private,"A:Agriculture, Forestry and Fishing",80.0,105000,1000,usable,2
+industry,Private,N:administrative and support service activities,82.0,1038000,8000,usable,3
+industry,Private,F:Construction,84.0,777000,5000,usable,4
+industry,Private,S:Other Service Activities,86.0,351000,2000,usable,5
+industry,Private,Q:Human health and social work activities,87.0,1683000,11000,usable,6
+industry,Private,G:Wholesale and retail trade; repair of motor vehicles and motorcycles,88.0,2744000,20000,usable,7
+industry,Private,"R:Arts, entertainment and recreation",88.0,315000,2000,usable,7
+industry,Private,L:Real estate activities,89.0,354000,2000,usable,9
+industry,Private,"M:Professional, scientific and technical activities",89.0,1881000,10000,usable,9
+industry,Private,H:Transportation and storage,90.0,853000,6000,usable,11
+industry,Private,"E:Water Supply, sewerage, waste management and remediation activities",91.0,179000,1000,usable,12
+industry,Private,C:Manufacturing,92.0,2052000,13000,usable,13
+industry,Private,J:Information and communication,92.0,1014000,5000,usable,13
+industry,Private,P:Education,93.0,1010000,6000,usable,15
+industry,Private,K:Financial and insurance activities,96.0,1006000,5000,usable,16
+industry,Private,"D:Electricity,gas, steam and air conditioning supply",97.0,102000,1000,usable,17
+occupation,Overall,Elementary occupation,83.0,1481000,15000,usable,1
+occupation,Overall,Managers & senior officials,88.0,2638000,14000,usable,2
+occupation,Overall,Personal service occupations,88.0,1818000,13000,usable,2
+occupation,Overall,"Process, plant & machine operatives",88.0,1144000,9000,usable,2
+occupation,Overall,Sales & customer service occupations,88.0,1152000,11000,usable,2
+occupation,Overall,Skilled trades occupations,88.0,1310000,9000,usable,2
+occupation,Overall,Administrative & secretarial occupations,89.0,2253000,17000,usable,7
+occupation,Overall,Professional occupations,92.0,7044000,34000,usable,8
+occupation,Overall,Associate professional & technical occupations,93.0,3772000,20000,usable,9
+region,Overall,East,87.0,1946000,13000,usable,1
+region,Overall,London,87.0,3795000,23000,usable,1
+region,Overall,East Midlands,89.0,1550000,10000,usable,3
+region,Overall,West Midlands,89.0,1897000,12000,usable,3
+region,Overall,North West,90.0,2584000,16000,usable,5
+region,Overall,South West,90.0,1931000,12000,usable,5
+region,Overall,Yorkshire & The Humber,90.0,1824000,12000,usable,5
+region,Overall,North East,91.0,792000,5000,usable,8
+region,Overall,South East,91.0,3155000,19000,usable,8
+region,Overall,Scotland,93.0,2054000,13000,usable,10
+region,Overall,Wales,93.0,1082000,7000,usable,10
