@@ -1,0 +1,9 @@
+year,sector,male_median_pct,female_median_pct,contribution_gap_female_minus_male_pp,male_participation_pct,female_participation_pct,participation_gap_female_minus_male_pp
+2021,Private sector,6.0,5.0,-1.0,78.0,71.0,-7.0
+2022,Private sector,6.0,5.0,-1.0,78.0,71.0,-7.0
+2023,Private sector,6.0,5.0,-1.0,78.0,72.0,-6.0
+2024,Private sector,6.0,5.0,-1.0,81.0,76.0,-5.0
+2021,Public sector,27.0,28.0,1.0,92.0,91.0,-1.0
+2022,Public sector,27.0,27.0,0.0,91.0,90.0,-1.0
+2023,Public sector,27.0,25.0,-2.0,91.0,90.0,-1.0
+2024,Public sector,27.0,26.0,-1.0,90.0,90.0,0.0

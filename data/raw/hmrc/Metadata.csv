@@ -1,0 +1,37 @@
+﻿Table,Column,Type,Unit,Description
+Table 2,tax_year,Filter,,Which tax year each observation belongs to
+Table 2,employment_status,Filter,,Whether the data applies to self-employed or all individuals/members
+Table 2,number_of_members,Variable,Count,Number of members to personal pension schemes
+Table 2,number_of_individuals,Variable,Count,Number of individuals making pension contributions
+Table 2,value_of_contributions,Variable,£ million,Value of pension contributions made by individuals
+Table 6,tax_year,Filter,,Which tax year each observation belongs to
+Table 6,income_tax_nics,Filter,,"Whether the data is related to Income Tax, National Insurance or both"
+Table 6,relief_charge,Filter,,Whether the data is related to a type of relief or tax charge
+Table 6,breakdown,Filter,,Categories by which the data can be split
+Table 6,nics_relief_class,Filter,,Type of National Insurance Contribution (NIC) 
+Table 6,value,Variable,£ million,Value of tax charges or relief on pension contributions
+Tables 6.1 and 6.2,tax_year,Filter,,Which tax year each observation belongs to
+Tables 6.1 and 6.2,income_tax_nics,Filter,,"Whether the data is related to Income Tax, National Insurance or both"
+Tables 6.1 and 6.2,contribution_type,Filter,,Type of private pension contribution
+Tables 6.1 and 6.2,nics_relief_class,Filter,,Type of National Insurance Contribution (NIC) 
+Tables 6.1 and 6.2,sector_scheme,Filter,,Type of pension scheme based on sector
+Tables 6.1 and 6.2,scheme_type,Filter,,Whether a pension scheme is Defined Benefit (DB) or Defined Contribution (DC)
+Tables 6.1 and 6.2,tax_rate,Filter,,The tax rate at which pension contributions are relieved
+Tables 6.1 and 6.2,value_of_relief,Variable,£ million,Value of relief on pension contributions
+Tables 7 and 8,tax_year,Filter,,Which tax year each observation belongs to
+Tables 7 and 8,allowance_type,Filter,,Whether the data relates to Annual or Lifetime Allowance
+Tables 7 and 8,reporting_method,Filter,,Method through which allowance charges are reported to HMRC
+Tables 7 and 8,payment_method,Filter,,"Whether the data relates to charges on lump sum, non-lump or all payments"
+Tables 7 and 8,allowance_value,Variable,£,Monetary value of the allowance
+Tables 7 and 8,number_of_charges,Variable,Count,Number of charges reported to HMRC
+Tables 7 and 8,value_of_charges,Variable,£ million,Value of the charges reported to HMRC
+Tables 7 and 8,individuals_reporting_excess_contributions,Variable,Count,Number of individuals reporting pension contributions exceeding Annual Allowance
+Tables 7 and 8,value_of_excess_contributions,Variable,£ million,Value of pension contributions exceeding Annual Allowance
+Table 9,year_type,Filter,,Whether the time period is a calendar year or tax year
+Table 9,year,Filter,,Which year the observation belongs to
+Table 9,quarter,Filter,,Which quarter of the calendar year each obervation belongs to
+Table 9,age,Filter,,Breakdown by age bracket
+Table 9,gender,Filter,,Breakdown by gender
+Table 9,number_of_payments,Variable,Count,Number of flexible payments from pensions
+Table 9,number_of_individuals,Variable,Count,Number of individuals reporting flexible payments
+Table 9,value_of_payments,Variable,£ million,Monetary value of flexible payments

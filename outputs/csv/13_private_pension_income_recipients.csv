@@ -1,0 +1,65 @@
+series,financial_year,category,individuals,individuals_receiving_any_payment,product_rows_above_individuals,product_rows_per_100_individuals,yoy_change_in_product_rows
+all_recipients,2015-16,Defined Benefit or Annuity,11780000,11890000,180000,99.1,
+all_recipients,2015-16,Lump sums and other Defined Contribution products,290000,11890000,180000,2.4,
+all_recipients,2016-17,Defined Benefit or Annuity,11770000,12030000,380000,97.8,-10000
+all_recipients,2016-17,Lump sums and other Defined Contribution products,640000,12030000,380000,5.3,350000
+all_recipients,2017-18,Defined Benefit or Annuity,11770000,12040000,430000,97.8,0
+all_recipients,2017-18,Lump sums and other Defined Contribution products,710000,12040000,430000,5.9,70000
+all_recipients,2018-19,Defined Benefit or Annuity,11840000,12150000,520000,97.4,70000
+all_recipients,2018-19,Lump sums and other Defined Contribution products,830000,12150000,520000,6.8,120000
+all_recipients,2019-20,Defined Benefit or Annuity,11870000,12290000,550000,96.6,30000
+all_recipients,2019-20,Lump sums and other Defined Contribution products,970000,12290000,550000,7.9,140000
+all_recipients,2020-21,Defined Benefit or Annuity,11930000,12330000,580000,96.8,60000
+all_recipients,2020-21,Lump sums and other Defined Contribution products,990000,12330000,580000,8.0,20000
+all_recipients,2021-22,Defined Benefit or Annuity,11880000,12350000,650000,96.2,-50000
+all_recipients,2021-22,Lump sums and other Defined Contribution products,1120000,12350000,650000,9.1,130000
+all_recipients,2022-23,Defined Benefit or Annuity,11970000,12490000,800000,95.8,90000
+all_recipients,2022-23,Lump sums and other Defined Contribution products,1330000,12490000,800000,10.6,210000
+all_recipients,2023-24,Defined Benefit or Annuity,12030000,12650000,880000,95.1,60000
+all_recipients,2023-24,Lump sums and other Defined Contribution products,1510000,12650000,880000,11.9,180000
+all_recipients,2024-25,Defined Benefit or Annuity,12130000,12790000,980000,94.8,100000
+all_recipients,2024-25,Lump sums and other Defined Contribution products,1640000,12790000,980000,12.8,130000
+all_recipients,2025-26,Defined Benefit or Annuity,12200000,12940000,1080000,94.3,70000
+all_recipients,2025-26,Lump sums and other Defined Contribution products,1820000,12940000,1080000,14.1,180000
+also_employed,2015-16,Defined Benefit or Annuity,2540000,2610000,90000,97.3,
+also_employed,2015-16,Lump sums and other Defined Contribution products,160000,2610000,90000,6.1,
+also_employed,2016-17,Defined Benefit or Annuity,2500000,2660000,170000,94.0,-40000
+also_employed,2016-17,Lump sums and other Defined Contribution products,330000,2660000,170000,12.4,170000
+also_employed,2017-18,Defined Benefit or Annuity,2350000,2520000,170000,93.3,-150000
+also_employed,2017-18,Lump sums and other Defined Contribution products,340000,2520000,170000,13.5,10000
+also_employed,2018-19,Defined Benefit or Annuity,2300000,2500000,200000,92.0,-50000
+also_employed,2018-19,Lump sums and other Defined Contribution products,400000,2500000,200000,16.0,60000
+also_employed,2019-20,Defined Benefit or Annuity,2320000,2570000,220000,90.3,20000
+also_employed,2019-20,Lump sums and other Defined Contribution products,470000,2570000,220000,18.3,70000
+also_employed,2020-21,Defined Benefit or Annuity,2200000,2440000,220000,90.2,-120000
+also_employed,2020-21,Lump sums and other Defined Contribution products,460000,2440000,220000,18.9,-10000
+also_employed,2021-22,Defined Benefit or Annuity,2200000,2480000,230000,88.7,0
+also_employed,2021-22,Lump sums and other Defined Contribution products,510000,2480000,230000,20.6,50000
+also_employed,2022-23,Defined Benefit or Annuity,2200000,2510000,270000,87.6,0
+also_employed,2022-23,Lump sums and other Defined Contribution products,580000,2510000,270000,23.1,70000
+also_employed,2023-24,Defined Benefit or Annuity,2230000,2600000,320000,85.8,30000
+also_employed,2023-24,Lump sums and other Defined Contribution products,690000,2600000,320000,26.5,110000
+also_employed,2024-25,Defined Benefit or Annuity,2290000,2680000,340000,85.4,60000
+also_employed,2024-25,Lump sums and other Defined Contribution products,730000,2680000,340000,27.2,40000
+also_employed,2025-26,Defined Benefit or Annuity,2240000,2670000,350000,83.9,-50000
+also_employed,2025-26,Lump sums and other Defined Contribution products,780000,2670000,350000,29.2,50000
+first_time,2016-17,Defined Benefit or Annuity,480000,760000,0,63.2,
+first_time,2016-17,Lump sums and other Defined Contribution products,280000,760000,0,36.8,
+first_time,2017-18,Defined Benefit or Annuity,430000,680000,10000,63.2,-50000
+first_time,2017-18,Lump sums and other Defined Contribution products,260000,680000,10000,38.2,-20000
+first_time,2018-19,Defined Benefit or Annuity,420000,700000,0,60.0,-10000
+first_time,2018-19,Lump sums and other Defined Contribution products,280000,700000,0,40.0,20000
+first_time,2019-20,Defined Benefit or Annuity,430000,740000,0,58.1,10000
+first_time,2019-20,Lump sums and other Defined Contribution products,310000,740000,0,41.9,30000
+first_time,2020-21,Defined Benefit or Annuity,390000,670000,0,58.2,-40000
+first_time,2020-21,Lump sums and other Defined Contribution products,280000,670000,0,41.8,-30000
+first_time,2021-22,Defined Benefit or Annuity,380000,690000,0,55.1,-10000
+first_time,2021-22,Lump sums and other Defined Contribution products,310000,690000,0,44.9,30000
+first_time,2022-23,Defined Benefit or Annuity,390000,720000,10000,54.2,10000
+first_time,2022-23,Lump sums and other Defined Contribution products,330000,720000,10000,45.8,20000
+first_time,2023-24,Defined Benefit or Annuity,410000,790000,0,51.9,20000
+first_time,2023-24,Lump sums and other Defined Contribution products,390000,790000,0,49.4,60000
+first_time,2024-25,Defined Benefit or Annuity,430000,810000,10000,53.1,20000
+first_time,2024-25,Lump sums and other Defined Contribution products,390000,810000,10000,48.1,0
+first_time,2025-26,Defined Benefit or Annuity,430000,840000,0,51.2,0
+first_time,2025-26,Lump sums and other Defined Contribution products,410000,840000,0,48.8,20000

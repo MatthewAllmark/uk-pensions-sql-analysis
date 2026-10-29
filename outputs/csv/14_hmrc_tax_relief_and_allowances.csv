@@ -1,0 +1,45 @@
+slice,period,category,value_gbp_million,individuals,running_excess_gbp_million
+annual_allowance_self_assessment,2006 to 2007,Individuals reporting contributions above the annual allowance,2.0,140.0,2.0
+annual_allowance_self_assessment,2007 to 2008,Individuals reporting contributions above the annual allowance,3.0,230.0,5.0
+annual_allowance_self_assessment,2008 to 2009,Individuals reporting contributions above the annual allowance,8.0,190.0,13.0
+annual_allowance_self_assessment,2009 to 2010,Individuals reporting contributions above the annual allowance,5.0,170.0,18.0
+annual_allowance_self_assessment,2010 to 2011,Individuals reporting contributions above the annual allowance,6.0,140.0,24.0
+annual_allowance_self_assessment,2011 to 2012,Individuals reporting contributions above the annual allowance,148.0,5570.0,172.0
+annual_allowance_self_assessment,2012 to 2013,Individuals reporting contributions above the annual allowance,95.0,3850.0,267.0
+annual_allowance_self_assessment,2013 to 2014,Individuals reporting contributions above the annual allowance,178.0,5840.0,445.0
+annual_allowance_self_assessment,2014 to 2015,Individuals reporting contributions above the annual allowance,184.0,7280.0,629.0
+annual_allowance_self_assessment,2015 to 2016,Individuals reporting contributions above the annual allowance,143.0,5460.0,772.0
+annual_allowance_self_assessment,2016 to 2017,Individuals reporting contributions above the annual allowance,584.0,18720.0,1356.0
+annual_allowance_self_assessment,2017 to 2018,Individuals reporting contributions above the annual allowance,914.0,29990.0,2270.0
+annual_allowance_self_assessment,2018 to 2019,Individuals reporting contributions above the annual allowance,824.0,34490.0,3094.0
+annual_allowance_self_assessment,2019 to 2020,Individuals reporting contributions above the annual allowance,1011.0,45210.0,4105.0
+annual_allowance_self_assessment,2020 to 2021,Individuals reporting contributions above the annual allowance,822.0,44300.0,4927.0
+annual_allowance_self_assessment,2021 to 2022,Individuals reporting contributions above the annual allowance,1290.0,56370.0,6217.0
+annual_allowance_self_assessment,2022 to 2023,Individuals reporting contributions above the annual allowance,732.0,34370.0,6949.0
+annual_allowance_self_assessment,2023 to 2024,Individuals reporting contributions above the annual allowance,505.0,24950.0,7454.0
+income_tax_by_scheme_2024_25,2024 to 2025,Defined benefit | Employer contributions to net pay arrangements plus deficit reduction contributions,16600.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined benefit | Employer contributions to relief at source schemes,0.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined benefit | Individual contributions to net pay arrangements,5200.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined benefit | Individual contributions to relief at source schemes,0.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined benefit | Salary sacrificed contributions,1500.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined contribution | Employer contributions to net pay arrangements plus deficit reduction contributions,8200.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined contribution | Employer contributions to relief at source schemes,9200.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined contribution | Individual contributions to net pay arrangements,1800.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined contribution | Individual contributions to relief at source schemes,5900.0,,
+income_tax_by_scheme_2024_25,2024 to 2025,Defined contribution | Salary sacrificed contributions,7400.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Personal or private sector occupational scheme | Employer contributions to net pay arrangements plus deficit reduction contributions,10800.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Personal or private sector occupational scheme | Employer contributions to relief at source schemes,8800.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Personal or private sector occupational scheme | Individual contributions to net pay arrangements,2500.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Personal or private sector occupational scheme | Individual contributions to relief at source schemes,5700.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Personal or private sector occupational scheme | Salary sacrificed contributions,8300.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Public sector occupational scheme | Employer contributions to net pay arrangements plus deficit reduction contributions,14000.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Public sector occupational scheme | Employer contributions to relief at source schemes,400.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Public sector occupational scheme | Individual contributions to net pay arrangements,4500.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Public sector occupational scheme | Individual contributions to relief at source schemes,200.0,,
+income_tax_by_sector_2024_25,2024 to 2025,Public sector occupational scheme | Salary sacrificed contributions,600.0,,
+income_tax_gross_relief_total,2019 to 2020,Total,41700.0,,
+income_tax_gross_relief_total,2020 to 2021,Total,44500.0,,
+income_tax_gross_relief_total,2021 to 2022,Total,45500.0,,
+income_tax_gross_relief_total,2022 to 2023,Total,47800.0,,
+income_tax_gross_relief_total,2023 to 2024,Total,54800.0,,
+income_tax_gross_relief_total,2024 to 2025,Total,60400.0,,

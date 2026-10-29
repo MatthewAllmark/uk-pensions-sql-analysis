@@ -1,0 +1,239 @@
+topic,year,sector,comparison,group_a_pct,group_b_pct,gap_percentage_points,group_a_employees,group_b_employees
+earnings,2009,Overall,"£70,000+ minus £10,000 to £20,000",80.0,37.0,43.0,,
+earnings,2010,Overall,"£70,000+ minus £10,000 to £20,000",81.0,35.0,46.0,,
+earnings,2011,Overall,"£70,000+ minus £10,000 to £20,000",81.0,33.0,48.0,,
+earnings,2012,Overall,"£70,000+ minus £10,000 to £20,000",81.0,32.0,49.0,,
+earnings,2013,Overall,"£70,000+ minus £10,000 to £20,000",82.0,38.0,44.0,,
+earnings,2014,Overall,"£70,000+ minus £10,000 to £20,000",86.0,55.0,31.0,,
+earnings,2015,Overall,"£70,000+ minus £10,000 to £20,000",88.0,60.0,28.0,,
+earnings,2016,Overall,"£70,000+ minus £10,000 to £20,000",88.0,63.0,25.0,,
+earnings,2017,Overall,"£70,000+ minus £10,000 to £20,000",92.0,72.0,20.0,,
+earnings,2018,Overall,"£70,000+ minus £10,000 to £20,000",92.0,77.0,15.0,,
+earnings,2019,Overall,"£70,000+ minus £10,000 to £20,000",92.0,78.0,14.0,,
+earnings,2020,Overall,"£70,000+ minus £10,000 to £20,000",93.0,79.0,14.0,,
+earnings,2021,Overall,"£70,000+ minus £10,000 to £20,000",93.0,79.0,14.0,,
+earnings,2022,Overall,"£70,000+ minus £10,000 to £20,000",93.0,77.0,16.0,,
+earnings,2023,Overall,"£70,000+ minus £10,000 to £20,000",94.0,76.0,18.0,,
+earnings,2024,Overall,"£70,000+ minus £10,000 to £20,000",94.0,78.0,16.0,,
+earnings,2025,Overall,"£70,000+ minus £10,000 to £20,000",95.0,78.0,17.0,,
+earnings,2009,Private,"£70,000+ minus £10,000 to £20,000",75.0,21.0,54.0,,
+earnings,2010,Private,"£70,000+ minus £10,000 to £20,000",75.0,19.0,56.0,,
+earnings,2011,Private,"£70,000+ minus £10,000 to £20,000",75.0,18.0,57.0,,
+earnings,2012,Private,"£70,000+ minus £10,000 to £20,000",76.0,17.0,59.0,,
+earnings,2013,Private,"£70,000+ minus £10,000 to £20,000",78.0,25.0,53.0,,
+earnings,2014,Private,"£70,000+ minus £10,000 to £20,000",83.0,46.0,37.0,,
+earnings,2015,Private,"£70,000+ minus £10,000 to £20,000",86.0,53.0,33.0,,
+earnings,2016,Private,"£70,000+ minus £10,000 to £20,000",86.0,56.0,30.0,,
+earnings,2017,Private,"£70,000+ minus £10,000 to £20,000",91.0,67.0,24.0,,
+earnings,2018,Private,"£70,000+ minus £10,000 to £20,000",92.0,74.0,18.0,,
+earnings,2019,Private,"£70,000+ minus £10,000 to £20,000",92.0,75.0,17.0,,
+earnings,2020,Private,"£70,000+ minus £10,000 to £20,000",92.0,75.0,17.0,,
+earnings,2021,Private,"£70,000+ minus £10,000 to £20,000",92.0,76.0,16.0,,
+earnings,2022,Private,"£70,000+ minus £10,000 to £20,000",93.0,74.0,19.0,,
+earnings,2023,Private,"£70,000+ minus £10,000 to £20,000",94.0,73.0,21.0,,
+earnings,2024,Private,"£70,000+ minus £10,000 to £20,000",94.0,76.0,18.0,,
+earnings,2025,Private,"£70,000+ minus £10,000 to £20,000",95.0,74.0,21.0,,
+earnings,2009,Public,"£70,000+ minus £10,000 to £20,000",96.0,78.0,18.0,,
+earnings,2010,Public,"£70,000+ minus £10,000 to £20,000",97.0,75.0,22.0,,
+earnings,2011,Public,"£70,000+ minus £10,000 to £20,000",95.0,76.0,19.0,,
+earnings,2012,Public,"£70,000+ minus £10,000 to £20,000",94.0,75.0,19.0,,
+earnings,2013,Public,"£70,000+ minus £10,000 to £20,000",96.0,79.0,17.0,,
+earnings,2014,Public,"£70,000+ minus £10,000 to £20,000",97.0,84.0,13.0,,
+earnings,2015,Public,"£70,000+ minus £10,000 to £20,000",96.0,84.0,12.0,,
+earnings,2016,Public,"£70,000+ minus £10,000 to £20,000",94.0,84.0,10.0,,
+earnings,2017,Public,"£70,000+ minus £10,000 to £20,000",95.0,87.0,8.0,,
+earnings,2018,Public,"£70,000+ minus £10,000 to £20,000",94.0,89.0,5.0,,
+earnings,2019,Public,"£70,000+ minus £10,000 to £20,000",93.0,87.0,6.0,,
+earnings,2020,Public,"£70,000+ minus £10,000 to £20,000",94.0,91.0,3.0,,
+earnings,2021,Public,"£70,000+ minus £10,000 to £20,000",95.0,88.0,7.0,,
+earnings,2022,Public,"£70,000+ minus £10,000 to £20,000",93.0,87.0,6.0,,
+earnings,2023,Public,"£70,000+ minus £10,000 to £20,000",94.0,87.0,7.0,,
+earnings,2024,Public,"£70,000+ minus £10,000 to £20,000",92.0,86.0,6.0,,
+earnings,2025,Public,"£70,000+ minus £10,000 to £20,000",95.0,88.0,7.0,,
+gender,2009,Overall,Female minus male,61.0,56.0,5.0,5367000,6068000
+gender,2010,Overall,Female minus male,61.0,55.0,6.0,5365000,5976000
+gender,2011,Overall,Female minus male,60.0,53.0,7.0,5201000,5769000
+gender,2012,Overall,Female minus male,59.0,52.0,7.0,5093000,5611000
+gender,2013,Overall,Female minus male,63.0,56.0,7.0,5460000,5998000
+gender,2014,Overall,Female minus male,74.0,68.0,6.0,6412000,7369000
+gender,2015,Overall,Female minus male,78.0,73.0,5.0,7109000,8262000
+gender,2016,Overall,Female minus male,79.0,76.0,3.0,7390000,8572000
+gender,2017,Overall,Female minus male,84.0,83.0,1.0,8104000,9568000
+gender,2018,Overall,Female minus male,88.0,86.0,2.0,8666000,10074000
+gender,2019,Overall,Female minus male,88.0,87.0,1.0,9081000,10159000
+gender,2020,Overall,Female minus male,89.0,87.0,2.0,9074000,10230000
+gender,2021,Overall,Female minus male,89.0,87.0,2.0,9536000,10432000
+gender,2022,Overall,Female minus male,88.0,87.0,1.0,9720000,10714000
+gender,2023,Overall,Female minus male,89.0,87.0,2.0,10199000,10710000
+gender,2024,Overall,Female minus male,90.0,89.0,1.0,10915000,11057000
+gender,2025,Overall,Female minus male,90.0,89.0,1.0,11218000,11392000
+gender,2009,Private,Female minus male,42.0,47.0,-5.0,2211000,4126000
+gender,2010,Private,Female minus male,41.0,46.0,-5.0,2049000,3940000
+gender,2011,Private,Female minus male,39.0,44.0,-5.0,1996000,3808000
+gender,2012,Private,Female minus male,40.0,43.0,-3.0,2107000,3789000
+gender,2013,Private,Female minus male,46.0,47.0,-1.0,2406000,4171000
+gender,2014,Private,Female minus male,63.0,63.0,0.0,3416000,5700000
+gender,2015,Private,Female minus male,70.0,69.0,1.0,4043000,6565000
+gender,2016,Private,Female minus male,72.0,73.0,-1.0,4298000,6881000
+gender,2017,Private,Female minus male,80.0,81.0,-1.0,4958000,7895000
+gender,2018,Private,Female minus male,85.0,85.0,0.0,5461000,8416000
+gender,2019,Private,Female minus male,86.0,86.0,0.0,5860000,8565000
+gender,2020,Private,Female minus male,86.0,86.0,0.0,5652000,8514000
+gender,2021,Private,Female minus male,87.0,86.0,1.0,5949000,8444000
+gender,2022,Private,Female minus male,86.0,86.0,0.0,6230000,8768000
+gender,2023,Private,Female minus male,86.0,86.0,0.0,6441000,8684000
+gender,2024,Private,Female minus male,89.0,88.0,1.0,6856000,8980000
+gender,2025,Private,Female minus male,89.0,88.0,1.0,7032000,9207000
+gender,2009,Public,Female minus male,89.0,91.0,-2.0,3156000,1942000
+gender,2010,Public,Female minus male,88.0,90.0,-2.0,3315000,2036000
+gender,2011,Public,Female minus male,88.0,89.0,-1.0,3205000,1961000
+gender,2012,Public,Female minus male,87.0,89.0,-2.0,2986000,1822000
+gender,2013,Public,Female minus male,90.0,91.0,-1.0,3054000,1827000
+gender,2014,Public,Female minus male,91.0,92.0,-1.0,2996000,1669000
+gender,2015,Public,Female minus male,91.0,92.0,-1.0,3066000,1696000
+gender,2016,Public,Female minus male,90.0,91.0,-1.0,3092000,1691000
+gender,2017,Public,Female minus male,92.0,92.0,0.0,3147000,1673000
+gender,2018,Public,Female minus male,93.0,93.0,0.0,3205000,1658000
+gender,2019,Public,Female minus male,92.0,92.0,0.0,3221000,1595000
+gender,2020,Public,Female minus male,94.0,93.0,1.0,3421000,1716000
+gender,2021,Public,Female minus male,94.0,93.0,1.0,3587000,1988000
+gender,2022,Public,Female minus male,92.0,93.0,-1.0,3490000,1947000
+gender,2023,Public,Female minus male,93.0,93.0,0.0,3758000,2026000
+gender,2024,Public,Female minus male,92.0,91.0,1.0,4059000,2076000
+gender,2025,Public,Female minus male,93.0,93.0,0.0,4186000,2185000
+private_employer_size,2009,Private,1 to 4,13.0,,0.0,,
+private_employer_size,2010,Private,1 to 4,12.0,,-1.0,,
+private_employer_size,2011,Private,1 to 4,13.0,,0.0,,
+private_employer_size,2012,Private,1 to 4,12.0,,-1.0,,
+private_employer_size,2013,Private,1 to 4,12.0,,-1.0,,
+private_employer_size,2014,Private,1 to 4,12.0,,-1.0,,
+private_employer_size,2015,Private,1 to 4,11.0,,-2.0,,
+private_employer_size,2016,Private,1 to 4,17.0,,4.0,,
+private_employer_size,2017,Private,1 to 4,37.0,,24.0,,
+private_employer_size,2018,Private,1 to 4,58.0,,45.0,,
+private_employer_size,2019,Private,1 to 4,58.0,,45.0,,
+private_employer_size,2020,Private,1 to 4,59.0,,46.0,,
+private_employer_size,2021,Private,1 to 4,57.0,,44.0,,
+private_employer_size,2022,Private,1 to 4,59.0,,46.0,,
+private_employer_size,2023,Private,1 to 4,58.0,,45.0,,
+private_employer_size,2024,Private,1 to 4,60.0,,47.0,,
+private_employer_size,2025,Private,1 to 4,55.0,,42.0,,
+private_employer_size,2009,Private,250 to 4999,56.0,,0.0,,
+private_employer_size,2010,Private,250 to 4999,53.0,,-3.0,,
+private_employer_size,2011,Private,250 to 4999,52.0,,-4.0,,
+private_employer_size,2012,Private,250 to 4999,53.0,,-3.0,,
+private_employer_size,2013,Private,250 to 4999,54.0,,-2.0,,
+private_employer_size,2014,Private,250 to 4999,84.0,,28.0,,
+private_employer_size,2015,Private,250 to 4999,89.0,,33.0,,
+private_employer_size,2016,Private,250 to 4999,86.0,,30.0,,
+private_employer_size,2017,Private,250 to 4999,89.0,,33.0,,
+private_employer_size,2018,Private,250 to 4999,90.0,,34.0,,
+private_employer_size,2019,Private,250 to 4999,90.0,,34.0,,
+private_employer_size,2020,Private,250 to 4999,91.0,,35.0,,
+private_employer_size,2021,Private,250 to 4999,92.0,,36.0,,
+private_employer_size,2022,Private,250 to 4999,90.0,,34.0,,
+private_employer_size,2023,Private,250 to 4999,90.0,,34.0,,
+private_employer_size,2024,Private,250 to 4999,92.0,,36.0,,
+private_employer_size,2025,Private,250 to 4999,92.0,,36.0,,
+private_employer_size,2009,Private,5 to 49,27.0,,0.0,,
+private_employer_size,2010,Private,5 to 49,27.0,,0.0,,
+private_employer_size,2011,Private,5 to 49,25.0,,-2.0,,
+private_employer_size,2012,Private,5 to 49,24.0,,-3.0,,
+private_employer_size,2013,Private,5 to 49,24.0,,-3.0,,
+private_employer_size,2014,Private,5 to 49,24.0,,-3.0,,
+private_employer_size,2015,Private,5 to 49,25.0,,-2.0,,
+private_employer_size,2016,Private,5 to 49,39.0,,12.0,,
+private_employer_size,2017,Private,5 to 49,65.0,,38.0,,
+private_employer_size,2018,Private,5 to 49,77.0,,50.0,,
+private_employer_size,2019,Private,5 to 49,78.0,,51.0,,
+private_employer_size,2020,Private,5 to 49,80.0,,53.0,,
+private_employer_size,2021,Private,5 to 49,80.0,,53.0,,
+private_employer_size,2022,Private,5 to 49,81.0,,54.0,,
+private_employer_size,2023,Private,5 to 49,81.0,,54.0,,
+private_employer_size,2024,Private,5 to 49,85.0,,58.0,,
+private_employer_size,2025,Private,5 to 49,86.0,,59.0,,
+private_employer_size,2009,Private,50 to 249,43.0,,0.0,,
+private_employer_size,2010,Private,50 to 249,42.0,,-1.0,,
+private_employer_size,2011,Private,50 to 249,40.0,,-3.0,,
+private_employer_size,2012,Private,50 to 249,39.0,,-4.0,,
+private_employer_size,2013,Private,50 to 249,40.0,,-3.0,,
+private_employer_size,2014,Private,50 to 249,45.0,,2.0,,
+private_employer_size,2015,Private,50 to 249,77.0,,34.0,,
+private_employer_size,2016,Private,50 to 249,79.0,,36.0,,
+private_employer_size,2017,Private,50 to 249,82.0,,39.0,,
+private_employer_size,2018,Private,50 to 249,86.0,,43.0,,
+private_employer_size,2019,Private,50 to 249,87.0,,44.0,,
+private_employer_size,2020,Private,50 to 249,88.0,,45.0,,
+private_employer_size,2021,Private,50 to 249,88.0,,45.0,,
+private_employer_size,2022,Private,50 to 249,88.0,,45.0,,
+private_employer_size,2023,Private,50 to 249,87.0,,44.0,,
+private_employer_size,2024,Private,50 to 249,91.0,,48.0,,
+private_employer_size,2025,Private,50 to 249,90.0,,47.0,,
+private_employer_size,2009,Private,5000+,53.0,,0.0,,
+private_employer_size,2010,Private,5000+,53.0,,0.0,,
+private_employer_size,2011,Private,5000+,50.0,,-3.0,,
+private_employer_size,2012,Private,5000+,49.0,,-4.0,,
+private_employer_size,2013,Private,5000+,66.0,,13.0,,
+private_employer_size,2014,Private,5000+,86.0,,33.0,,
+private_employer_size,2015,Private,5000+,87.0,,34.0,,
+private_employer_size,2016,Private,5000+,88.0,,35.0,,
+private_employer_size,2017,Private,5000+,89.0,,36.0,,
+private_employer_size,2018,Private,5000+,89.0,,36.0,,
+private_employer_size,2019,Private,5000+,92.0,,39.0,,
+private_employer_size,2020,Private,5000+,91.0,,38.0,,
+private_employer_size,2021,Private,5000+,91.0,,38.0,,
+private_employer_size,2022,Private,5000+,91.0,,38.0,,
+private_employer_size,2023,Private,5000+,90.0,,37.0,,
+private_employer_size,2024,Private,5000+,90.0,,37.0,,
+private_employer_size,2025,Private,5000+,92.0,,39.0,,
+working_pattern,2009,Overall,Part-time minus full-time,56.0,59.0,-3.0,,
+working_pattern,2010,Overall,Part-time minus full-time,55.0,58.0,-3.0,,
+working_pattern,2011,Overall,Part-time minus full-time,54.0,56.0,-2.0,,
+working_pattern,2012,Overall,Part-time minus full-time,52.0,55.0,-3.0,,
+working_pattern,2013,Overall,Part-time minus full-time,61.0,58.0,3.0,,
+working_pattern,2014,Overall,Part-time minus full-time,71.0,70.0,1.0,,
+working_pattern,2015,Overall,Part-time minus full-time,72.0,76.0,-4.0,,
+working_pattern,2016,Overall,Part-time minus full-time,73.0,78.0,-5.0,,
+working_pattern,2017,Overall,Part-time minus full-time,78.0,85.0,-7.0,,
+working_pattern,2018,Overall,Part-time minus full-time,82.0,88.0,-6.0,,
+working_pattern,2019,Overall,Part-time minus full-time,83.0,89.0,-6.0,,
+working_pattern,2020,Overall,Part-time minus full-time,83.0,89.0,-6.0,,
+working_pattern,2021,Overall,Part-time minus full-time,83.0,89.0,-6.0,,
+working_pattern,2022,Overall,Part-time minus full-time,82.0,89.0,-7.0,,
+working_pattern,2023,Overall,Part-time minus full-time,81.0,89.0,-8.0,,
+working_pattern,2024,Overall,Part-time minus full-time,83.0,91.0,-8.0,,
+working_pattern,2025,Overall,Part-time minus full-time,83.0,92.0,-9.0,,
+working_pattern,2009,Private,Part-time minus full-time,35.0,47.0,-12.0,,
+working_pattern,2010,Private,Part-time minus full-time,33.0,46.0,-13.0,,
+working_pattern,2011,Private,Part-time minus full-time,31.0,44.0,-13.0,,
+working_pattern,2012,Private,Part-time minus full-time,31.0,44.0,-13.0,,
+working_pattern,2013,Private,Part-time minus full-time,41.0,47.0,-6.0,,
+working_pattern,2014,Private,Part-time minus full-time,58.0,64.0,-6.0,,
+working_pattern,2015,Private,Part-time minus full-time,61.0,71.0,-10.0,,
+working_pattern,2016,Private,Part-time minus full-time,64.0,74.0,-10.0,,
+working_pattern,2017,Private,Part-time minus full-time,72.0,82.0,-10.0,,
+working_pattern,2018,Private,Part-time minus full-time,78.0,86.0,-8.0,,
+working_pattern,2019,Private,Part-time minus full-time,79.0,87.0,-8.0,,
+working_pattern,2020,Private,Part-time minus full-time,78.0,87.0,-9.0,,
+working_pattern,2021,Private,Part-time minus full-time,80.0,88.0,-8.0,,
+working_pattern,2022,Private,Part-time minus full-time,79.0,88.0,-9.0,,
+working_pattern,2023,Private,Part-time minus full-time,77.0,88.0,-11.0,,
+working_pattern,2024,Private,Part-time minus full-time,80.0,91.0,-11.0,,
+working_pattern,2025,Private,Part-time minus full-time,79.0,91.0,-12.0,,
+working_pattern,2009,Public,Part-time minus full-time,84.0,91.0,-7.0,,
+working_pattern,2010,Public,Part-time minus full-time,83.0,91.0,-8.0,,
+working_pattern,2011,Public,Part-time minus full-time,83.0,90.0,-7.0,,
+working_pattern,2012,Public,Part-time minus full-time,83.0,89.0,-6.0,,
+working_pattern,2013,Public,Part-time minus full-time,86.0,91.0,-5.0,,
+working_pattern,2014,Public,Part-time minus full-time,89.0,92.0,-3.0,,
+working_pattern,2015,Public,Part-time minus full-time,88.0,92.0,-4.0,,
+working_pattern,2016,Public,Part-time minus full-time,87.0,92.0,-5.0,,
+working_pattern,2017,Public,Part-time minus full-time,89.0,93.0,-4.0,,
+working_pattern,2018,Public,Part-time minus full-time,91.0,93.0,-2.0,,
+working_pattern,2019,Public,Part-time minus full-time,90.0,93.0,-3.0,,
+working_pattern,2020,Public,Part-time minus full-time,92.0,94.0,-2.0,,
+working_pattern,2021,Public,Part-time minus full-time,90.0,94.0,-4.0,,
+working_pattern,2022,Public,Part-time minus full-time,89.0,93.0,-4.0,,
+working_pattern,2023,Public,Part-time minus full-time,90.0,94.0,-4.0,,
+working_pattern,2024,Public,Part-time minus full-time,89.0,93.0,-4.0,,
+working_pattern,2025,Public,Part-time minus full-time,91.0,94.0,-3.0,,

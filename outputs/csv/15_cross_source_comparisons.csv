@@ -1,0 +1,18 @@
+comparison,period,left_measure,left_value,right_measure,right_value,left_minus_right
+ashe_participation,2021,"DWP all employees, Great Britain, percent",80.0,"ONS share of UK employee jobs with a workplace pension, 100 minus no-pension share",80.0,0.0
+ashe_participation,2022,"DWP all employees, Great Britain, percent",79.0,"ONS share of UK employee jobs with a workplace pension, 100 minus no-pension share",79.0,0.0
+ashe_participation,2023,"DWP all employees, Great Britain, percent",79.0,"ONS share of UK employee jobs with a workplace pension, 100 minus no-pension share",80.0,-1.0
+ashe_participation,2024,"DWP all employees, Great Britain, percent",82.0,"ONS share of UK employee jobs with a workplace pension, 100 minus no-pension share",82.0,0.0
+tax_relief_different_coverage,2019,"DWP tax relief for eligible savers, Great Britain, £ million",14700.0,,,
+tax_relief_different_coverage,2019 to 2020,"HMRC gross Income Tax relief, £ million",41700.0,,,
+tax_relief_different_coverage,2020,"DWP tax relief for eligible savers, Great Britain, £ million",14500.0,,,
+tax_relief_different_coverage,2020 to 2021,"HMRC gross Income Tax relief, £ million",44500.0,,,
+tax_relief_different_coverage,2021,"DWP tax relief for eligible savers, Great Britain, £ million",15200.0,,,
+tax_relief_different_coverage,2021 to 2022,"HMRC gross Income Tax relief, £ million",45500.0,,,
+tax_relief_different_coverage,2022,"DWP tax relief for eligible savers, Great Britain, £ million",15500.0,,,
+tax_relief_different_coverage,2022 to 2023,"HMRC gross Income Tax relief, £ million",47800.0,,,
+tax_relief_different_coverage,2023,"DWP tax relief for eligible savers, Great Britain, £ million",16700.0,,,
+tax_relief_different_coverage,2023 to 2024,"HMRC gross Income Tax relief, £ million",54800.0,,,
+tax_relief_different_coverage,2024,"DWP tax relief for eligible savers, Great Britain, £ million",18100.0,,,
+tax_relief_different_coverage,2024 to 2025,"HMRC gross Income Tax relief, £ million",60400.0,,,
+tax_relief_different_coverage,2025,"DWP tax relief for eligible savers, Great Britain, £ million",20300.0,,,
